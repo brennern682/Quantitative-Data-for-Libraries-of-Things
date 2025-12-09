@@ -1,22 +1,36 @@
 # Quantitative-Data-for-Libraries-of-Things
 README File
+
 Project Title: Finding Data in Libraries of Things
+
 Project Status: Complete
+
 Project Team: Nick Brenner, Yuan Sciscent
+
 Project Description
+
 This project created a quantitative dataset collecting the holdings of 14 libraries of things (LoT) in the tri-state area of New York City (NY, NJ, CT). It records types of items held in LoT and categories applied by different libraries in organizing holdings, and rural/urban classifications of the communities in which LoTs are situated, according to the US Department of Agriculture's Rural Classification metrics. 
 
 All project files are labelled: [filename]_LoT_DL2025
 
 Table of Contents
+
 How to Use the Spreadsheets
+
 Spreadsheet #1: Sample Population Statistics
+
 Spreadsheet #2: Library of Things Collections Data
+
 Spreadsheet #3: LOTMutualAid Sentiment Analysis
+
 Libraries Surveyed
+
 Glossary of Terms
+
 Technologies Used
+
 Acknowledgements
+
 License
 
 I. How to Use the Spreadsheets
