@@ -21,7 +21,7 @@ Spreadsheet #1: Sample Population Statistics
 
 Spreadsheet #2: Library of Things Collections Data
 
-Spreadsheet #3: LOTMutualAid Sentiment Analysis
+Spreadsheet #3: Individual Library Spreadsheets
 
 Libraries Surveyed
 
@@ -114,6 +114,11 @@ STEM & Science – a category with items that relates to Science, Technology, En
 Tools & Repairs – a category that includes equipment and devices used for basic maintenance, repairs, and common tasks. 
 
 Household & Kitchen – this category is a combination of two separate categories, for the purposes of this project, it is clustered as one as a kitchen is a section of the household. This category relates to items you would find within your household.
+
+C. Spreadsheet #3: Individual Library Spreadsheets
+File Names: Library-Name-Collections_LoT_DL2025.csv
+
+These spreadsheets cover the invidiual items held at each LoT surveyed in this project. It is organized by category, recording each item in a given category and the amount of that item the library possesses.
 
 IV. Technologies/Software Used
 Google Workspace
