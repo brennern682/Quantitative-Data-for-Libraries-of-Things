@@ -79,7 +79,7 @@ Onondaga Public Library (NY)
 Port Washington Public Library (NY)
 
 III. Glossary of Terms
-Since there is no standardized definition for terms in LoT among all our sample libraries, the researchers designed a glossary of terms to help provide clarity for the purposes of this project. The categorization of items may not be entirely accurate, as some items can fall under multiple categories, which can lead to ambiguity. 
+Since there is no standardized definition for terms in LoT among all the sample libraries, the researchers designed a glossary of terms to help provide clarity for the purposes of this project. The categorization of items may not be entirely accurate, as some items can fall under multiple categories, which can lead to ambiguity. 
 
 Library of Things (LoT) – is a material in a traditional library’s collection that is not a book, serial, periodical, audiobook, video, or information format that provides a wealth of knowledge through the act of reading, listening, or watching (Robison, 2017). Although there may be variants of this name, for the purposes of this project, researchers will refer to any form of alternative lending or borrowing in a library as the Library of Things. 
 
